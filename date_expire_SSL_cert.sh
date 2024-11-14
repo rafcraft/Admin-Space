@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Settings
-DOMAIN="zetosoftware.pl"
+DOMAIN="Set domain"
 PORT=443
 DAYS_THRESHOLD=30
-EMAIL_TO="pawelmik1999@wp.pl"
+EMAIL_TO="To e-mail"
 EMAIL_SUBJECT="SSL Certificate Expiry Notification"
 EMAIL_BODY="The SSL certificate for $DOMAIN is expiring in less than $DAYS_THRESHOLD days."
 
